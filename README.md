@@ -1,5 +1,4 @@
-# DS-Assignments
-# Assignment_2-Descriptive Statistics and Probability
+# Assignment_2-Set+1_Descriptive+statistics+Probability+(2)
 
 **Q 1. Look at the data given below. Plot the data, find the outliers and find out  μ,σ,σ^2**
 
